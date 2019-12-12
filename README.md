@@ -1,0 +1,2 @@
+"# stocksbotv1" 
+"# yahoofinancebot" 
